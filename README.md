@@ -19,7 +19,7 @@ A lightweight Streamlit app that lets you upload short audio files, extract audi
 - [Streamlit](https://streamlit.io/)
 - [pydub](https://github.com/jiaaro/pydub)
 - [speech_recognition](https://pypi.org/project/SpeechRecognition/)
-- [ffmpeg](https://ffmpeg.org/) (for audio processing)
+- [ffmpeg](https://ffmpeg.org/)
 
 
 ## 🚀 How to Run Locally
